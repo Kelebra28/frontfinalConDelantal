@@ -1,0 +1,11 @@
+.restaurantes{
+    /* background-color: blue; */
+    height: 756px;
+    display: flex;
+    align-items: center;
+}
+
+.imajen{
+    width: 100%;
+    height: 220px;
+}

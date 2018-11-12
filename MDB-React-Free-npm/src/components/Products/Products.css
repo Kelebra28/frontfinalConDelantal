@@ -1,0 +1,6 @@
+.restaurantes{
+    /* background-color: blue; */
+    height: 756px;
+    display: flex;
+    align-items: center;
+}

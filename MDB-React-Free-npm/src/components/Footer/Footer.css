@@ -1,0 +1,42 @@
+Footer{
+	/* border: solid 1px green; */
+	margin-top: -25px;
+	padding-top: -25px;
+	position: absolute;
+	bottom: 0;
+	width: 100%
+}
+
+.futer{
+	margin-top: -25px;
+	padding-top: -25px;
+	/* border: solid 1px violet; */
+}
+
+.footer{
+	width: 100%;
+	height: auto;
+	margin-top:0;
+	color: white;
+	font-family: 'Ubuntu', sans-serif;
+	text-decoration: none;
+	/* border: solid 1px yellow; */
+}
+
+.footer_list{
+	list-style: none;
+}
+
+.footer li {
+	list-style-type: none;
+	text-decoration: none;
+   display: inline;
+   padding-right: 15px;
+}
+
+.footer li a{
+	list-style-type: none;
+	text-decoration: none;
+   	color: white;
+   
+}
